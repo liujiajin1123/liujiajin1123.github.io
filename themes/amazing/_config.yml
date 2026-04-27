@@ -78,7 +78,6 @@ navbar:
         分类: /categories
         标签: /tags
         关于: /about
-        友链: /friend
     # Links to be shown on the right of the navigation bar
     # links:
     #     Join Gitter:
